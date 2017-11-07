@@ -1,4 +1,5 @@
 name: dependencias
 dependencies:
   - numpy
-- matplotlib
+  - matplotlib
+  - ipyvolume
