@@ -1,5 +1,6 @@
 name: dependencias
 dependencies:
+  -python=2.7
   - numpy
   - matplotlib
   - ipyvolume
